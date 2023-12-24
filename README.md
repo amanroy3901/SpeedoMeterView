@@ -31,3 +31,23 @@ Contributions, bug reports, and feature requests are highly encouraged. As we co
 
 **Note:**
 This project is actively evolving, with additional features and improvements planned for future releases. Stay tuned for updates and follow this repository to receive notifications about the latest developments. Your feedback and contributions contribute to making SpeedometerView a powerful and versatile tool for speed visualization in Android applications.
+
+
+**How to**
+To get a Git project into your build:
+
+**Step 1. Add the JitPack repository to your build file**
+
+gradle:
+
+		repositories {
+			mavenCentral()
+			maven { url 'https://jitpack.io' }
+		}
+ 
+**Step 2. Add the dependency**
+
+	dependencies {
+	        implementation 'com.github.amanroy3901:SpeedoMeterView:Tag'
+	}
+
