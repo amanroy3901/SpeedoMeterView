@@ -4,4 +4,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="random">#24ECCE</color>
     <color name="shadow">#656565</color>
+    <color name="Green">#4CAF50</color>
 </resources>

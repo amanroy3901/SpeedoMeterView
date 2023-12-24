@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Services"
 include(":app")
+include(":MeterView")

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpeedometerView">
+        <attr name="defaultColor" format="color" />
+        <attr name="speedColor" format="color" />
+        <attr name="minSpeed" format="integer" />
+        <attr name="maxSpeed" format="integer" />
+        <attr name="interval" format="integer" />
+        <attr name="meterType" format="enum">
+            <enum name="speedoMeter" value="0" />
+            <enum name="rotoMeter" value="1" />
+        </attr>
+
+    </declare-styleable>
+</resources>
