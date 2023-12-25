@@ -51,3 +51,6 @@ gradle:
 	        implementation 'com.github.amanroy3901:SpeedoMeterView:Tag'
 	}
 
+
+
+[![](https://jitpack.io/v/amanroy3901/SpeedoMeterView.svg)](https://jitpack.io/#amanroy3901/SpeedoMeterView)
